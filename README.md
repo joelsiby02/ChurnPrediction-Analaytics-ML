@@ -1,5 +1,8 @@
 # 📊 Telco Customer Churn Analysis - Complete Walkthrough
 
+### 📋 Dashboard View
+![DashBoard Plot](Notebooks/Plots/OverallPlots.png)
+
 ## 📋 Project Overview
 
 This project analyzes customer churn patterns for a telecommunications company using the Telco Customer Churn dataset from Kaggle. The goal is to understand churn drivers and build predictive models to identify at-risk customers.
