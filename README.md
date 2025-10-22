@@ -201,10 +201,11 @@ Gradient Boosting provides clear customer segmentation:
 ## 📁 Project Structure
 
 ```bash
-├── 01_null_value_imputation_walkthrough.ipynb
-├── 02_customer_churn_exploration_walkthrough.ipynb
-├── 03_EDA.ipynb
-├── SmoteDataComparision.ipynb
+├── Notebooks/01_null_value_imputation_walkthrough.ipynb
+├── Notebooks/02_customer_churn_exploration_walkthrough.ipynb
+├── Notebooks/03_EDA.ipynb
+├── Notebooks/SmoteDataComparision.ipynb
 ├── Notebooks/Plots/ (All visualization assets)
 └── Dataset/ (Processed data and model outputs)
+└── Notebooks/ModelsProboScore/(Model outputs confidence on each prediction GB/LR)
 ---
