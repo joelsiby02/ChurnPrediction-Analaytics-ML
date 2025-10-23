@@ -1,6 +1,18 @@
 # 📊 Telco Customer Churn Analysis - Complete Walkthrough
 
-### 📋 Dashboard View
+📊 **Power BI Dashboard PDF:**  
+You can download or view the full **Power BI report** here:  
+[![Dashboard Preview](PowerBI/PowerBI_Report.png)](PowerBI/Customer_Risk_Analysis_Dashboard_PDF.pdf)
+
+
+---
+
+This project originally included detailed Python analytics and machine learning for customer churn prediction.  
+It has now been extended with a **Power BI dashboard** for deeper business insights and interactive visualization.
+
+
+
+### 📋 Plot Views 
 ![DashBoard Plot](Notebooks/Plots/OverallPlots.png)
 
 ## 📋 Project Overview
